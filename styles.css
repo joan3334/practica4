@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    background-image: ;
+}
+#btn{
+    background-color: rgb(66, 66, 66);
+    padding: 5px 3px 3px 3px;
+    width: 15%;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-family: "oswald";
+    position: absolute;
+    left: 2%;
+    border-radius: 30px;
+    transition: background-color,width 0.5s ease;
+}
+#btn:hover{
+    width: 25%;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+#fm{
+    color: white;
+    font-family: "oswald";
+    font-size: 35px;
+   padding: 20% 25% 0 25%;
+   text-align: center;
+}
+#na{
+    color: white;
+    font-family: "oswald";
+    font-size: 35px;
+    text-align: center;
+}
